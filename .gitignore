@@ -1,6 +1,12 @@
 # Compiled class file
 *.class
 
+# Directories
+.idea
+/build
+/composeApp/build
+.gradle
+
 # Log file
 *.log
 
